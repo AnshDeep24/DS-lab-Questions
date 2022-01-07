@@ -22,3 +22,4 @@ class FirstElementOfArray
   	    System.out.println("First elment of an array is "+a[0]);
 	}
 }
+//contributed by Anshdeep
